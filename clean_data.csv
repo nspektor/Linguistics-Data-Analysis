@@ -1,0 +1,137 @@
+,leave_taking,speaker_age,speaker_sex,addressee_sex,familiarity,channel,speaker_age_category,standardized_leave_taking
+0,bye,21,m,f,relationship,phone,young_adult,bye
+1,have a great day,35,f,f,prof_u,person,adult,good day
+2,have a great day bye,35,f,f,prof_u,person,adult,good day
+3,thanks bye,40,f,f,prof_u,phone,adult,thank
+4,thanks bye,23,m,f,prof_u,person,young_adult,thank
+5,bye,19,f,m,unfamiliar,person,young_adult,bye
+6,bye,19,f,f,family,person,young_adult,bye
+7,bye,19,f,f,family,person,young_adult,bye
+8,see ya,19,f,f,friend,person,young_adult,see later
+9,alright bye,21,f,f,friend,person,young_adult,alright
+10,okay bye,19,f,f,friend,person,young_adult,ok
+11,see you,19,f,f,friend,person,young_adult,see later
+12,thanks bye,18,f,f,friend,person,kid,thank
+13,thank you very much bye,50,f,m,prof_u,phone,old,thank
+14,thank you,25,f,m,unfamiliar,phone,young_adult,thank
+15,--,60,m,m,prof_f,phone,old,NULL
+16,alright bye,23,f,m,prof_f,phone,young_adult,alright
+17,alright thanks bye,25,f,m,prof_u,phone,young_adult,thank
+18,thank you so much bye,30,f,f,prof_u,phone,adult,thank
+19,thanks,55,f,m,prof_f,phone,old,thank
+20,alright buh-bye,45,m,m,prof_u,phone,adult,alright
+21,allright thanks bye,50,m,f,unfamiliar,phone,old,thank
+22,okay bye,50,f,m,unfamiliar,phone,old,ok
+23,thanks bye,35,f,f,prof_u,phone,adult,thank
+24,bye,30,f,f,prof_f,phone,adult,bye
+25,talk to you soon bye,20,m,m,prof_u,phone,young_adult,see later
+26,okay bye,60,m,m,prof_f,phone,old,ok
+27,okay thank you bye,60,f,f,familiar,phone,old,thank
+28,thanks,55,f,m,prof_f,phone,old,thank
+29,alright let me know,25,f,m,prof_f,phone,young_adult,alright
+30,alright bye,25,m,m,prof_f,phone,young_adult,alright
+31,thanks bye,30,f,m,prof_u,phone,adult,thank
+32,bye,30,f,m,prof_f,phone,adult,bye
+33,thank you,55,f,m,prof_f,phone,old,thank
+34,thanks bye,30,f,m,prof_f,phone,adult,thank
+35,thanks bye,30,f,m,prof_f,phone,adult,thank
+36,thank you,45,f,m,prof_u,phone,adult,thank
+37,bye,42,f,f,family,phone,adult,bye
+38,thank you and have an nice day,45,f,m,prof_u,phone,adult,thank
+39,goodbye,21,m,f,relationship,phone,young_adult,bye
+40,--,28,m,m,prof_f,phone,adult,NULL
+41,thanks bye,30,f,f,prof_u,phone,adult,thank
+42,bye,45,f,m,family,phone,adult,bye
+43,goodbye,60,m,m,prof_f,phone,old,bye
+44,bye,28,f,m,prof_f,phone,adult,bye
+45,thanks bye,40,m,m,prof_u,phone,adult,thank
+46,ok bye,60,f,m,prof_f,phone,old,ok
+47,thanks bye,30,f,f,prof_u,phone,adult,thank
+48,bye,40,f,m,prof_f,phone,adult,bye
+49,thanks bye,30,f,m,prof_u,phone,adult,thank
+50,thanks bye,30,f,f,prof_u,phone,adult,thank
+51,thanks bye,30,f,f,prof_u,phone,adult,thank
+52,thanks bye,40,m,f,prof_u,phone,adult,thank
+53,love you bye,19,f,m,relationship,phone,young_adult,love
+54,alright talk to you later bye,55,m,m,family,phone,old,see later
+55,thanks,40,f,f,prof_u,phone,adult,thank
+56,okay bye,60,f,m,prof_f,phone,old,ok
+57,thanks,30,m,m,prof_u,phone,adult,thank
+58,thanks bye,65,m,m,prof_f,phone,old,thank
+59,thanks bye,60,f,m,prof_f,phone,old,thank
+60,okay bye,30,f,m,prof_f,phone,adult,ok
+61,--,20,m,m,prof_f,phone,young_adult,NULL
+62,thanks buh bye,55,f,m,prof_f,phone,old,thank
+63,have a good day buh bye,50,m,m,prof_u,phone,old,good day
+64,okay bye,12,f,m,friend,phone,kid,ok
+65,have a good day,25,m,m,prof_f,phone,young_adult,good day
+66,ok bye,25,f,m,prof_f,phone,young_adult,ok
+67,ok bye,25,f,m,prof_f,phone,young_adult,ok
+68,ok bye,25,f,m,prof u,phone,young_adult,ok
+69,thanks man bye,25,m,m,prof u,phone,young_adult,thank
+70,thanks bye and have a good day,65,f,m,prof_f,phone,old,thank
+71,thanks darlin bye bye,55,f,m,prof_f,phone,old,thank
+72,alright take care bye [name],25,f,m,prof_f,phone,young_adult,alright
+73,thank you buh bye,30,f,m,prof_u,phone,adult,thank
+74,love you bye,45,f,m,family,phone,adult,love
+75,thanks bye,35,m,m,prof_u,phone,adult,thank
+76,mkay bye,19,f,m,relationship,phone,young_adult,bye
+77,thank you bye,25,f,m,prof_u,phone,young_adult,thank
+78,buh bye,35,f,m,prof_u,phone,adult,bye
+79,thank you buh bye,19,f,f,family,phone,young_adult,thank
+80,bye,19,f,f,friend,phone,young_adult,bye
+81,see you soon,21,m,f,friend,phone,young_adult,see later
+82,bye,18,f,f,friend,text,kid,bye
+83,bye bye,17,f,f,friend,text,kid,bye
+84,okay bye,19,f,f,friend,text,young_adult,ok
+85,bye,5,m,f,family,text,kid,bye
+86,alright bye,18,f,f,friend,person,kid,alright
+87,bye,19,f,f,friend,person,young_adult,bye
+88,bye,20,f,f,friend,person,young_adult,bye
+89,bye,20,f,f,friend,person,young_adult,bye
+90,bye,21,m,f,relationship,phone,young_adult,bye
+91,see you soon,19,f,m,relationship,phone,young_adult,see later
+92,buh bye,21,m,f,relationship,text,young_adult,bye
+93,bye,19,f,m,relationship,text,young_adult,bye
+94,thanks bye,5,m,f,family,phone,kid,thank
+95,thanks bye,5,m,m,friend,phone,kid,thank
+96,alright bye,25,m,m,prof_f,phone,young_adult,alright
+97,thank you,60,f,m,prof_f,phone,old,thank
+98,thanks,19,f,f,prof_f,person,young_adult,thank
+99,bye,60,f,m,prof_f,phone,old,bye
+100,bye,16,m,m,friend,phone,kid,bye
+101,thanks buh bye,16,m,m,friend,phone,kid,thank
+102,take it easy bye,50,m,m,prof_f,phone,old,bye
+103,thank you so much,50,f,m,prof_u,phone,old,thank
+104,thanks a lot bye,50,m,m,prof_f,phone,old,thank
+105,goodbye,19,f,m,relationship,phone,young_adult,bye
+106,bye,50,f,m,prof_f,phone,old,bye
+107,talk to you later bye,50,f,m,prof_f,phone,old,see later
+108,thanks honey bye,55,f,m,prof_f,phone,old,thank
+109,bye,45,f,m,prof_f,phone,adult,bye
+110,thanks,30,f,m,prof_u,phone,adult,thank
+111,alright ill talk to you later bye,25,f,m,prof_u,phone,young_adult,see later
+112,bye,22,f,m,prof_f,phone,young_adult,bye
+113,thanks bye,25,f,m,prof_f,phone,young_adult,thank
+114,thanks,25,f,m,prof_u,phone,young_adult,thank
+115,thanks,50,f,m,prof_f,phone,old,thank
+116,thank you,20,m,m,friend,phone,young_adult,thank
+117,okay bye,28,m,m,prof_f,phone,adult,ok
+118,bye,60,m,m,prof_f,phone,old,bye
+119,love you bye,47,f,f,family,phone,old,love
+120,love you bye,19,f,f,family,phone,young_adult,love
+121,bye,19,f,m,relationship,phone,young_adult,bye
+122,love you bye,21,m,f,relationship,phone,young_adult,love
+123,bye,19,f,f,friend,person,young_adult,bye
+124,see ya,21,f,f,friend,person,young_adult,see later
+125,love you,19,f,m,relationship,phone,young_adult,love
+126,--,21,m,f,relationship,phone,young_adult,NULL
+127,bye mama,19,f,f,family,phone,young_adult,bye
+128,see ya soon,21,f,f,friend,person,young_adult,see later
+129,bye,19,f,f,friend,person,young_adult,bye
+130,bye thank you so much,21,f,f,familiar,person,young_adult,thank
+131,thank you bye,21,f,f,familiar,person,young_adult,thank
+132,goodbye,21,m,f,familiar,person,young_adult,bye
+133,okay thanks bye,19,f,m,family,phone,young_adult,thank
+134,thanks bye,19,f,f,family,phone,young_adult,thank
+135,goodbye,19,f,m,relationship,phone,young_adult,bye
