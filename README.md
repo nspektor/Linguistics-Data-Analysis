@@ -3,7 +3,7 @@ Data analysis for Linguistics Course research project regarding how people say g
 
 ## Contents
 - `data.csv`: 140 instances of leave-takings and their context that I collected from paying attention to how people indicate the end of a conversation.
-- `clean_data.csv`: file generated through python with the cleaned and transformed version of the original data
+- `clean_data.csv`: file generated in `DataAnalysis.ipynb` with the cleaned and transformed version of the original data
 - `DataAnalysis.ipynb`: iPython Notebook containing steps of data cleaning and transformation, analysis, and visualization
     - Data transofrmation was done using `pandas` and `numpy`
     - Visualizations are made with `matplotlib` and use the `seaborn-pastel` style
